@@ -86,8 +86,8 @@ author:
   location         : "Cambridge, MA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YAMwxL4AAAAJ&hl=en"
-  email            : "jhgilman@mit.edu"
+  googlescholar    : 
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
