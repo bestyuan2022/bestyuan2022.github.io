@@ -16,7 +16,7 @@ redirect_from:
 </button>
 <div id="abs1" style="display:none; margin-top:0.5em; margin-left: 1em; font-size: 0.8em;"> Political debates often invoke “rights” to justify public transfers (e.g., the right to health care), whereas economists use welfarist frameworks which evaluate transfers’ impacts based on how they affect people’s utility. We conduct real-stakes online experiments that isolate non-welfarist from welfarist motives, and find sizable non-welfarist preferences to provide health care and legal aid to the indigent. 73% of participants make choices which are incompatible with welfarism. Non-welfarist concerns are weaker but still pervasive with neutral comparison goods. Additional experiments highlight drivers of non-welfarist motives and a key policy implication: non-welfarist concerns make Social Welfare Functions less progressive. </div>
 
-[How Does Wage Inequality Affect the Labor Movement?](/files/bcgr_inequality.pdf) (with [Barbara Biasi](www.barbarabiasi.com), [Zoë Cullen](https://zcullen.github.io/),  and [Nina Roussille](https://ninaroussille.github.io/)), June 2025
+[How Does Wage Inequality Affect the Labor Movement?](/files/bcgr_inequality.pdf) (with [Barbara Biasi](https://www.barbarabiasi.com/), [Zoë Cullen](https://zcullen.github.io/),  and [Nina Roussille](https://ninaroussille.github.io/)), June 2025
 <span style="font-size:0.8em; color:gray;">
   <a href="https://www.nber.org/papers/w33978" style="color:gray; text-decoration: none;">NBER Working Paper No. 33978</a>
 </span>
