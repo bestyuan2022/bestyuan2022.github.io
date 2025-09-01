@@ -26,3 +26,9 @@ group :jekyll_plugins do
   gem 'hawkins'
   gem "webrick", "~> 1.8"
 end
+
+gem "csv", "~> 3.3"
+
+gem "logger", "~> 1.7"
+
+gem "bigdecimal", "~> 3.2"
