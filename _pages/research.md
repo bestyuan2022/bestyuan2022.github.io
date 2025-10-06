@@ -32,7 +32,7 @@ redirect_from:
   <button id="btn-abs1" class="abs-btn"
           onclick="toggleAbstract('abs1','btn-abs1')">Abstract +</button>
   <div id="abs1" class="abstract">
-    Political debates often invoke “rights” to justify public transfers (e.g., the right to health care), whereas economists use welfarist frameworks which evaluate transfers’ impacts based on how they affect people’s utility. We conduct real-stakes online experiments that isolate non-welfarist from welfarist motives, and find sizable non-welfarist preferences to provide health care and legal aid to the indigent. 73% of participants make choices which are incompatible with welfarism. Non-welfarist concerns are weaker but still pervasive with neutral comparison goods. Additional experiments highlight drivers of non-welfarist motives and a key policy implication: non-welfarist concerns make Social Welfare Functions less progressive.
+    
   </div>
 </div>
 
