@@ -28,6 +28,10 @@ redirect_from:
     (with <a href="https://sites.google.com/view/andygarin/home">Andrew Garin</a> and
     <a href="https://www.andrew.cmu.edu/user/bkovak/">Brian Kovak</a>), September 2025
   </p>
+  
+  <p class="paper-id">
+    How does a task-level minimum pay requirement for gig workers affect their earnings and employment?
+  </p>
 
   <button id="btn-abs1" class="abs-btn"
           onclick="toggleAbstract('abs1','btn-abs1')">Abstract +</button>
