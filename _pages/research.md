@@ -24,9 +24,9 @@ redirect_from:
 
 <div class="paper">
   <p class="paper-title">
-    <a href="/files/cgr_rights.pdf"><strong>Preferences for Rights</strong></a>
-    (with <a href="https://sites.google.com/view/avivcaspi/home">Aviv Caspi</a> and
-    <a href="https://www.charlierafkin.com/">Charlie Rafkin</a>), December 2024
+    <a href=""><strong>Delivering Higher Pay? The Impacts of a Task-Level Pay Standard in the Gig Economy</strong></a>
+    (with <a href="https://sites.google.com/view/andygarin/home">Andrew Garin</a> and
+    <a href="https://www.andrew.cmu.edu/user/bkovak/">Brian Kovak</a>), September 2025
   </p>
 
   <button id="btn-abs1" class="abs-btn"
