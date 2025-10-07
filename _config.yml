@@ -13,7 +13,7 @@ name                     : &name "Yuan An"
 description              : &description "personal description"
 url                      : https://bestyuan2022.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jhgilman/jhgilman.github.io"
+repository               : "bestyuan2022/bestyuan2022.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Julia Gilman"
-  avatar           : "profile.png"
-  bio              : "Economics PhD Student at MIT"
-  location         : "Cambridge, MA"
+  name             : "Yuan An"
+  avatar           : ""
+  bio              : "PhD Student at CMU"
+  location         : "Pittsburgh, PA"
   employer         :
   pubmed           : 
   googlescholar    : 
