@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Julia Gilman"
+title                    : "Yuan An"
 title_separator          : "-"
-name                     : &name "Julia Gilman"
+name                     : &name "Yuan An"
 description              : &description "personal description"
 url                      : https://jhgilman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
